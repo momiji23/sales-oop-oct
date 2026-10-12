@@ -6,4 +6,6 @@ public function add($request) {
 
     $sql = "INSERT INTO products (product_name, price, quantity) VALUES ('$product_name', '$price', '$quantity')";
 }
+
+// This code is from GIT have.
 ?>
